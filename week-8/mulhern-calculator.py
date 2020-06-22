@@ -1,3 +1,8 @@
+#Title: Assignment 9.3
+#Author: Professor Krasso
+#Date: 16 June 2020,
+#Modified By: Brendan Mulhern,
+#Description: Calculator functions with Python.
 def add(value1, value2):
     return value1 + value2
 
